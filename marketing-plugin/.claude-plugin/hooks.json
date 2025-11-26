@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Review what was just written. Does it match our brand voice guidelines? Check for: jargon we avoid, passive voice, overly long sentences, and corporate-speak. If anything sounds off-brand, flag it with a brief suggestion for improvement."
+          }
+        ]
+      }
+    ]
+  }
+}
