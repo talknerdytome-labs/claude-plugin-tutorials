@@ -1,15 +1,19 @@
 {
-  "name": "marketing-plugin",
-  "displayName": "Marketing Plugin",
-  "description": "Your personal marketing assistant - brand voice, social posts, copywriting, and competitor research",
-  "version": "1.0.0",
-  "author": "Talk Nerdy to Me",
-  "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials",
+  "name": "claude-plugin-tutorials",
+  "owner": {
+    "name": "Talk Nerdy to Me",
+    "email": "contact@talknerdytome.com"
+  },
   "plugins": [
     {
       "name": "marketing-plugin",
-      "path": ".",
-      "description": "Complete marketing toolkit with commands, agents, hooks, and MCP integration"
+      "source": ".",
+      "description": "Your personal marketing assistant - brand voice, social posts, copywriting, and competitor research",
+      "version": "1.0.0",
+      "author": {
+        "name": "Talk Nerdy to Me"
+      },
+      "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials"
     }
   ]
 }
