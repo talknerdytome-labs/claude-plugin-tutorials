@@ -2,6 +2,8 @@
   "name": "marketing-plugin",
   "description": "Your personal marketing assistant - brand voice, social posts, copywriting, and competitor research",
   "version": "1.0.0",
-  "author": "Talk Nerdy to Me",
+  "author": {
+    "name": "Talk Nerdy to Me"
+  },
   "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials"
 }
