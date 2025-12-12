@@ -5,5 +5,9 @@
   "author": {
     "name": "Talk Nerdy to Me"
   },
-  "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials"
+  "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials",
+  "components": {
+    "agents": "agents",
+    "commands": "commands"
+  }
 }
