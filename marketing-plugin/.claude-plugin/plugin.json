@@ -1,13 +1,9 @@
 {
   "name": "marketing-plugin",
   "description": "Your personal marketing assistant - brand voice, social posts, copywriting, and competitor research",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Talk Nerdy to Me"
   },
-  "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials",
-  "components": {
-    "agents": "agents",
-    "commands": "commands"
-  }
+  "repository": "https://github.com/talknerdytome-labs/claude-plugin-tutorials"
 }
